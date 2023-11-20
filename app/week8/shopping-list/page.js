@@ -6,7 +6,6 @@ import NewItem from "./new-item";
 import itemsData from "./items.json";
 import MealIdeas from "./meal-ideas";
 
-
 export default function Page() {
 
     let itemsArray = itemsData.map(
